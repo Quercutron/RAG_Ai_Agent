@@ -1,0 +1,6 @@
+# 提示词配置文件路径
+main_prompts_path: prompts/main_prompts.txt
+#RAG总结提示路径
+rag_summarize_prompt_path: prompts/rag_summarize.txt
+#RAG生成提示路径
+report_prompt_path: prompts/report_prompt.txt

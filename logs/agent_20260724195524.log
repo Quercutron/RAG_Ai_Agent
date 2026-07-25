@@ -1,0 +1,2 @@
+2026-07-24 19:55:26,349 - agent - INFO-vector_store.py:43 - [检索]相似度score=0.4813 <= 阈值1.0，保留
+2026-07-24 19:55:26,349 - agent - INFO-vector_store.py:43 - [检索]相似度score=0.5101 <= 阈值1.0，保留

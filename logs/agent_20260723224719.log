@@ -1,0 +1,6 @@
+2026-07-23 22:47:30,891 - agent - INFO-vector_store.py:80 - [加载知识库]文件内容已存在：D:\Gellman\Project\Develop\Python\RAG_AI_Agent\data\扫地机器人100问.pdf，跳过
+2026-07-23 22:47:30,891 - agent - INFO-vector_store.py:80 - [加载知识库]文件内容已存在：D:\Gellman\Project\Develop\Python\RAG_AI_Agent\data\扫地机器人100问2.txt，跳过
+2026-07-23 22:47:30,892 - agent - INFO-vector_store.py:80 - [加载知识库]文件内容已存在：D:\Gellman\Project\Develop\Python\RAG_AI_Agent\data\扫拖一体机器人100问.txt，跳过
+2026-07-23 22:47:30,893 - agent - INFO-vector_store.py:80 - [加载知识库]文件内容已存在：D:\Gellman\Project\Develop\Python\RAG_AI_Agent\data\故障排除.txt，跳过
+2026-07-23 22:47:30,893 - agent - INFO-vector_store.py:80 - [加载知识库]文件内容已存在：D:\Gellman\Project\Develop\Python\RAG_AI_Agent\data\维护保养.txt，跳过
+2026-07-23 22:47:30,894 - agent - INFO-vector_store.py:80 - [加载知识库]文件内容已存在：D:\Gellman\Project\Develop\Python\RAG_AI_Agent\data\选购指南.txt，跳过

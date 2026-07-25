@@ -1,0 +1,2 @@
+2026-07-24 19:53:43,676 - agent - INFO-vector_store.py:43 - [检索]相似度score=0.9764 <= 阈值1.0，保留
+2026-07-24 19:53:43,676 - agent - INFO-vector_store.py:46 - [检索]相似度score=1.2014 > 阈值1.0，丢弃

@@ -1,0 +1,8 @@
+#聊天模型
+chat_model_name: qwen-plus
+#embedding嵌入模型
+embedding_model_name: text-embedding-v2
+#API超时（秒）
+request_timeout: 120
+#最大重试次数
+max_retries: 2
